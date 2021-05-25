@@ -1,2 +1,2 @@
-# eth-wiki
+# vap-wiki
 wiki.js Wiki Test by Hudson
